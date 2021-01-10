@@ -1,5 +1,17 @@
 .. -*- restructuredtext -*-
 
+=================================
+hglock - Mercurial Lock Extension
+=================================
+
+This is the ``hglock`` extension, v0.5.4, as retrieved from `pypi website <https://pypi.org/project/hglock>`_.
+Accordingly to the available information, this extension should be the one currently documented in the
+`Mercurial Wiki <https://www.mercurial-scm.org/wiki/LockExtension>`_
+(and lost `thanks to Bitbucket <https://bitbucket.org/blog/sunsetting-mercurial-support-in-bitbucket>`_)
+originally coded by `Martin Geisler <https://www.mercurial-scm.org/wiki/MartinGeisler>`_.
+
+Below the original ``README`` file content from the package.
+
 ==============
 lock extension
 ==============
